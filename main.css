@@ -1,0 +1,13 @@
+.first{background-color:aqua;width:0px;height: 0px;border-width: 100px;border-style: solid;
+       border-bottom-color: black;border-left-color: fuchsia;border-right-color: darkorange;border-top-color: chartreuse;}
+.second{background-color: aliceblue;
+        border-top:50px solid aqua;
+        border-right:50px solid black;
+        border-left: 50px solid red;
+        border-bottom: 0px solid red;
+        width: 0px;height: 0px;   
+        margin:-2px;
+       }
+.third{background-color: rgb(42, 61, 80);width:200px;height:125px;color: white;font-style:italic;padding: 15px}
+.fourth{background-color:#e8e8ed;width:200px;height: 125px;padding: 15px;font-style: italic;font-size: 10px;}
+
